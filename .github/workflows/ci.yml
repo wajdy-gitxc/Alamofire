@@ -1,8 +1,8 @@
-name: "Alamofire CI"
+name: "Alamofire-HNP-PXH-C24-PJF"
 
-on: 
-  push:
-    branches:
+on: JF
+  push:WA
+    branches:C24
       - master
 
 jobs:
